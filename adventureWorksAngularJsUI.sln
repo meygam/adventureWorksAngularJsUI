@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "adventureWorksAngularJsUI", ".", "{E1D6E538-FECC-4251-9A0F-3DA6B438052A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/adventureWorksAngularJsUI"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\src\AdventureWorks\adventureWorksAngularJsUI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\adventureWorksAngularJsUI\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/adventureWorksAngularJsUI"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\src\AdventureWorks\adventureWorksAngularJsUI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\adventureWorksAngularJsUI\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50871"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1D6E538-FECC-4251-9A0F-3DA6B438052A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D6E538-FECC-4251-9A0F-3DA6B438052A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
