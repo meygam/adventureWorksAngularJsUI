@@ -1,0 +1,5 @@
+﻿<div class="col-lg-4" data-ng-repeat="product in products">
+    <img data-ng-src="{{ product.ProductProductPhotoes[0].ProductPhoto.ThumbNailPhoto }}" alt="{{ product.ProductProductPhotoes[0].ProductPhoto.ThumbnailPhotoFileName }}" />
+    <button type="button" class="btn btn-default btn-lg btn-block">
+        {{ product.Name + ' ' + product.ProductProductPhotoes[0].ProductPhoto.ThumbnailPhotoFileName }}</button>
+</div>
